@@ -1,9 +1,7 @@
 # TrabajoFinal-EstructurasDeDatos-UNQ
 
-Trabajo final de la materia Estructuras de datos de la Universidad Nacional de Quilmes.
-
 Nombre del proyecto: **Network**.    
-Calificacion: **8**.
+Calificacion final: **8**.
 
 ***
 ## Introduccion:
