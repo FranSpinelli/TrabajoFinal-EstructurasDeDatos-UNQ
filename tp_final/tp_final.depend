@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1561827820 source:c:\users\publico\desktop\tp_ed_2019s1 (2)\tp_ed_2019s1\esqueleto\tp_final\main.cpp
+	<cassert>
+	<map>
+	"Common.h"
+	"Map.h"
+	"Test.h"
+
+1561827650 c:\users\publico\desktop\tp_ed_2019s1 (2)\tp_ed_2019s1\esqueleto\tp_final\common.h
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<cassert>
+	<iostream>
+
+1561827650 c:\users\publico\desktop\tp_ed_2019s1 (2)\tp_ed_2019s1\esqueleto\tp_final\map.h
+
+1561827650 c:\users\publico\desktop\tp_ed_2019s1 (2)\tp_ed_2019s1\esqueleto\tp_final\test.h
+
+1561827650 source:c:\users\publico\desktop\tp_ed_2019s1 (2)\tp_ed_2019s1\esqueleto\tp_final\network.cpp
+	"Common.h"
+	"Network.h"
+
+1561827650 c:\users\publico\desktop\tp_ed_2019s1 (2)\tp_ed_2019s1\esqueleto\tp_final\network.h
+
+1561827805 source:c:\users\publico\desktop\tp_ed_2019s1 (2)\tp_ed_2019s1\esqueleto\tp_final\stack.cpp
+	"Common.h"
+	"Stack.h"
+	<cstddef>
+
+1561827650 c:\users\publico\desktop\tp_ed_2019s1 (2)\tp_ed_2019s1\esqueleto\tp_final\stack.h
+
+1561827650 source:c:\users\publico\desktop\tp_ed_2019s1 (2)\tp_ed_2019s1\esqueleto\tp_final\test.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	"Stack.h"
+	"Map.h"
+	"Network.h"
+
+1561827989 source:c:\users\publico\desktop\tp_ed_2019s1 (2)\tp_ed_2019s1\esqueleto\tp_final\map.cpp
+	"Common.h"
+	"Map.h"
+
+1561937720 source:c:\users\franc\desktop\tp_final\main.cpp
+	<cassert>
+	<map>
+	"Common.h"
+	"Map.h"
+	"Test.h"
+
+1561827652 c:\users\franc\desktop\tp_final\common.h
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<cassert>
+	<iostream>
+
+1561827652 c:\users\franc\desktop\tp_final\map.h
+
+1561827652 c:\users\franc\desktop\tp_final\test.h
+
+1561827652 source:c:\users\franc\desktop\tp_final\network.cpp
+	"Common.h"
+	"Network.h"
+
+1561827652 c:\users\franc\desktop\tp_final\network.h
+
+1561827806 source:c:\users\franc\desktop\tp_final\stack.cpp
+	"Common.h"
+	"Stack.h"
+	<cstddef>
+
+1561827652 c:\users\franc\desktop\tp_final\stack.h
+
+1561952378 source:c:\users\franc\desktop\tp_final\test.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	"Stack.h"
+	"Map.h"
+	"Network.h"
+
+1561952513 source:c:\users\franc\desktop\tp_final\map.cpp
+	"Common.h"
+	"Map.h"
+
+1563016864 source:c:\users\publico\desktop\tp_final\main.cpp
+	<cassert>
+	<map>
+	"Common.h"
+	"Map.h"
+	"Test.h"
+
+1563016864 c:\users\publico\desktop\tp_final\common.h
+	<ctime>
+	<cstdio>
+	<cstdlib>
+	<cassert>
+	<iostream>
+
+1563016864 c:\users\publico\desktop\tp_final\map.h
+
+1563016864 c:\users\publico\desktop\tp_final\test.h
+
+1563017824 source:c:\users\publico\desktop\tp_final\map.cpp
+	"Common.h"
+	"Map.h"
+
+1563016864 source:c:\users\publico\desktop\tp_final\network.cpp
+	"Common.h"
+	"Network.h"
+	"Map.h"
+	"Stack.h"
+
+1563016864 c:\users\publico\desktop\tp_final\network.h
+
+1563016864 c:\users\publico\desktop\tp_final\stack.h
+
+1563017864 source:c:\users\publico\desktop\tp_final\stack.cpp
+	"Common.h"
+	"Stack.h"
+	<cstddef>
+
+1563016864 source:c:\users\publico\desktop\tp_final\test.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	"Stack.h"
+	"Map.h"
+	"Network.h"
+
